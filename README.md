@@ -1,0 +1,2 @@
+# bsu-store
+Test page
